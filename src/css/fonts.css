@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "CaviarDreams";
+  src: url("../fonts/CaviarDreamsRegular/CaviarDreamsRegular.eot");
+  src: url("../fonts/CaviarDreamsRegular/CaviarDreamsRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/CaviarDreamsRegular/CaviarDreamsRegular.woff") format("woff"), url("../fonts/CaviarDreamsRegular/CaviarDreamsRegular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "CaviarDreams";
+  src: url("../fonts/CaviarDreamsBold/CaviarDreamsBold.eot");
+  src: url("../fonts/CaviarDreamsBold/CaviarDreamsBold.eot?#iefix") format("embedded-opentype"), url("../fonts/CaviarDreamsBold/CaviarDreamsBold.woff") format("woff"), url("../fonts/CaviarDreamsBold/CaviarDreamsBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: bold;
+}
+@font-face {
+  font-family: "CaviarDreams";
+  src: url("../fonts/CaviarDreamsItalic/CaviarDreamsItalic.eot");
+  src: url("../fonts/CaviarDreamsItalic/CaviarDreamsItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/CaviarDreamsItalic/CaviarDreamsItalic.woff") format("woff"), url("../fonts/CaviarDreamsItalic/CaviarDreamsItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "CaviarDreams";
+  src: url("../fonts/CaviarDreamsBoldItalic/CaviarDreamsBoldItalic.eot");
+  src: url("../fonts/CaviarDreamsBoldItalic/CaviarDreamsBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/CaviarDreamsBoldItalic/CaviarDreamsBoldItalic.woff") format("woff"), url("../fonts/CaviarDreamsBoldItalic/CaviarDreamsBoldItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Optima";
+  src: url("../fonts/Optima/OptimaCyr.eot");
+  src: url("../fonts/Optima/OptimaCyr.eot?#iefix") format("embedded-opentype"), url("../fonts/Optima/OptimaCyr.woff") format("woff"), url("../fonts/Optima/OptimaCyr.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+	font-family: "Lato Regular";
+	src: url("../fonts/lato-regular/lato-regular.eot"); /* IE9 Compat Modes */
+	src: url("../fonts/lato-regular/lato-regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+		url("../fonts/lato-regular/lato-regular.otf") format("opentype"), /* Open Type Font */
+		url("../fonts/lato-regular/lato-regular.svg") format("svg"), /* Legacy iOS */
+		url("../fonts/lato-regular/lato-regular.ttf") format("truetype"), /* Safari, Android, iOS */
+		url("../fonts/lato-regular/lato-regular.woff") format("woff"), /* Modern Browsers */
+		url("../fonts/lato-regular/lato-regular.woff2") format("woff2"); /* Modern Browsers */
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Impact";
+	src: url("../fonts/impact/Impact.eot"); /* IE9 Compat Modes */
+	src: url("../fonts/impact/Impact.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+		url("../fonts/impact/Impact.otf") format("opentype"), /* Open Type Font */
+		url("../fonts/impact/Impact.svg") format("svg"), /* Legacy iOS */
+		url("../fonts/impact/Impact.ttf") format("truetype"), /* Safari, Android, iOS */
+		url("../fonts/impact/Impact.woff") format("woff"), /* Modern Browsers */
+		url("../fonts/impact/Impact.woff2") format("woff2"); /* Modern Browsers */
+	font-weight: normal;
+	font-style: normal;
+}
